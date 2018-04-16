@@ -1,5 +1,5 @@
 # Peabody Notecard Pipeline
-The [peabody archeological museum](https://peabody.andover.edu) has thousands of typewritten notecards that index all objects in their possession. In order to help them with their indexing, I created an automatic OCR (Optical Character Recognition) pipeline. It takes all the notecards and converts them to an easily searchable csv. I further then helped in the creation of an internal, django website that allows for correction by workduty students. That code is not currently posted, but I can if interest is expressed.
+The [peabody archeological museum](https://peabody.andover.edu) has thousands of typewritten notecards that index all objects in their possession. In order to help them with their indexing, I created an automatic OCR (Optical Character Recognition) pipeline. It takes all the notecards and converts them to an easily searchable csv. I further then helped in the creation of an internal, django website that allows for correction by workduty students. That code is not currently posted, but I can if interest is expressed — a photo of the website is below.
 ### Example
 ![Example Notecard](example_notecard.png)
 
@@ -15,3 +15,5 @@ The [peabody archeological museum](https://peabody.andover.edu) has thousands of
  "Situation": 'On sand under shell just south of stake 1.',
  "Remarks":   '',
  "Figured":   ''} 
+
+![Django Website](Website_Example.png)
